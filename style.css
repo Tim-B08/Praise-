@@ -88,34 +88,6 @@ header {
     float: left;
 }
 
-.box {
-    float: middle;
-    margin: 100px auto;
-    border: 4px solid white;
-    width: 200px;
-    border-radius: 40px;
-    height: 65px;
-    position: fixed;
-}
-
-.input {
-    outline: none;
-    height: 65px;
-    width: 300px;
-    border-radius: 40px;
-    border: 0;
-}
-
-.src {
-    background: white;
-    outline: none;
-    border: 0;
-    padding-right: 25px;
-}
-.box:hover {
-    background-color: gray;
-}
-
 .header-right {
     float: right;
     margin-right: -25px;
